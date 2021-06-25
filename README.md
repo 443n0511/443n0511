@@ -1,6 +1,6 @@
 ### Hey there, I'm Kimura Yoshimi 👋
-Hey there! I'm Kimura Yoshimi, I'm studying to become a front-end engineer from Japan.
-I have 5 and 3 year old sons💛
+Hey there! I'm Kimura Yoshimi, I'm studying to become a front-end engineer from Japan.<br>
+I have 5 and 3 year old sons💛<br>
 - 🏠 &nbsp; I am currently working as a tester and coder at a software development company
 - ⚡️ &nbsp; Fun fact: Basketball🏀,Euphonium🎺,Rabbit🐰,sweets🍰...and bake bread🍞
 - 📫 &nbsp; How to reach me: [@ruby443n](https://twitter.com/ruby443n)
